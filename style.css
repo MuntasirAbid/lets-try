@@ -7,14 +7,17 @@ body {
 .top-banner {
     background-image: url(./images/donation3.jpg);
     background-size: cover;
+    position: relative;
+
+
 }
 
 #top-banner-text {
-    color: rgb(182, 16, 16);
+    color: rgb(191, 179, 179);
     text-align: center;
     font-size: 230%;
-    padding-top: 10%;
-    padding-bottom: 15%;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 
 .link-button {
@@ -70,9 +73,14 @@ body {
 
 #costomisez-amount {
     text-align: center;
+    color: rgb(130, 124, 124);
+
     padding-top: 5%;
-    text-decoration-line: underline;
-    color: rgba(155, 151, 151, 0.139);
+    border-bottom: 2px solid rgb(130, 124, 124);
+    margin-left: 30%;
+    margin-right: 30%;
+
+
 }
 
 #cant-find-anyother-option-to-align-text {
