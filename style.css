@@ -7,9 +7,6 @@ body {
 .top-banner {
     background-image: url(./images/donation3.jpg);
     background-size: cover;
-    position: relative;
-
-
 }
 
 #top-banner-text {
@@ -71,21 +68,17 @@ body {
     box-shadow: 10px 10px 30px gray;
 }
 
-#costomisez-amount {
-    text-align: center;
-    color: rgb(130, 124, 124);
-
+#input-anount {
+    padding-left: 40%;
     padding-top: 5%;
-    border-bottom: 2px solid rgb(130, 124, 124);
-    margin-left: 30%;
-    margin-right: 30%;
-
 
 }
 
 #cant-find-anyother-option-to-align-text {
 
     text-align: center;
+    padding-top: 2%;
+    padding-right: 3%;
 }
 
 .plan-banner {
