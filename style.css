@@ -149,6 +149,11 @@ img {
     margin: .5%;
     padding-left: 1.5%;
     padding-right: .5%;
+    transition: all 1s;
+}
+
+img:hover {
+    transform: scale(1.1);
 }
 
 .subscription-banner {
